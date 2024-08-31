@@ -18,6 +18,10 @@ migrate_working_dir/
 android/
 ios/
 build/
+linux/
+macos/
+web/
+windows/
 
 **/doc/api/
 **/ios/Flutter/.last_build_id
