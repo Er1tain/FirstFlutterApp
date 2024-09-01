@@ -15,8 +15,6 @@ migrate_working_dir/
 *.iws
 
 .idea/
-android/
-ios/
 build/
 linux/
 macos/
